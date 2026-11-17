@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" fill="none">
+  <rect width="1600" height="560" rx="20" fill="#F8FAFC"/>
+  <path d="M0 20A20 20 0 0 1 20 0H1580A20 20 0 0 1 1600 20V8H0Z" fill="#2563EB"/>
+  <g stroke="#E2E8F0"><path d="M64 116H1536M64 462H1536M1000 146V430"/><path d="M1080 160V420M1140 160V420M1200 160V420M1260 160V420M1320 160V420M1380 160V420M1440 160V420M1040 220H1496M1040 280H1496M1040 340H1496M1040 400H1496" stroke-dasharray="3 7"/></g>
+  <text x="66" y="79" fill="#64748B" font-family="Consolas,monospace" font-size="19" letter-spacing="3">HUMAN-CENTERED DESIGN / INTERACTIVE LAB</text>
+  <rect x="1250" y="45" width="286" height="45" rx="5" fill="white" stroke="#E2E8F0"/>
+  <circle cx="1271" cy="68" r="5" fill="#059669"/><text x="1288" y="74" fill="#475569" font-family="Consolas,monospace" font-size="17">HACK4GOOD · 2026</text>
+  <text x="63" y="231" fill="#0F172A" font-family="Segoe UI,Arial,sans-serif" font-size="87" font-weight="700" letter-spacing="-4">EmpathyLens</text>
+  <text x="68" y="295" fill="#334155" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="34" letter-spacing="8">共情之镜</text>
+  <text x="68" y="352" fill="#64748B" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="26">看见障碍，而不止于看见。</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="16"><rect x="67" y="390" width="130" height="34" rx="5" fill="#EFF6FF" stroke="#BFDBFE"/><text x="83" y="413" fill="#1D4ED8">LOCAL FIRST</text><rect x="210" y="390" width="158" height="34" rx="5" fill="#ECFDF5" stroke="#A7F3D0"/><text x="227" y="413" fill="#047857">NO SIGN-IN</text><rect x="381" y="390" width="159" height="34" rx="5" fill="white" stroke="#CBD5E1"/><text x="398" y="413" fill="#475569">WCAG-INSPIRED</text></g>
+  <circle cx="1265" cy="280" r="120" fill="#EFF6FF" stroke="#BFDBFE"/><circle cx="1265" cy="280" r="87" fill="white" stroke="#2563EB" stroke-width="2"/>
+  <path d="M1154 280Q1265 162 1376 280Q1265 398 1154 280Z" fill="white" stroke="#2563EB" stroke-width="4"/>
+  <circle cx="1265" cy="280" r="42" fill="#2563EB"/><circle cx="1265" cy="280" r="18" fill="white"/><path d="M1265 137V168M1265 392V423M1122 280H1153M1377 280H1408" stroke="#0F172A" stroke-width="2"/>
+  <circle cx="1368" cy="367" r="24" fill="#059669"/><path d="M1357 367L1365 375L1380 358" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="68" y="510" fill="#64748B" font-family="Consolas,monospace" font-size="17" letter-spacing="1">SIMULATE → EXPERIENCE → MEASURE → IMPROVE</text>
+  <text x="1140" y="510" fill="#94A3B8" font-family="Consolas,monospace" font-size="16">DESIGNED FOR EVERYONE</text>
+</svg>

@@ -1,0 +1,164 @@
+{
+  "base": "https://empathylens-m33wci77q34.qoder.zone",
+  "results": [
+    {
+      "test": "anonymous fresh context opens app without login",
+      "passed": true,
+      "status": 200,
+      "final_url": "https://empathylens-m33wci77q34.qoder.zone/"
+    },
+    {
+      "test": "desktop initial render; no horizontal overflow",
+      "passed": true
+    },
+    {
+      "test": "persona 张奶奶",
+      "passed": true
+    },
+    {
+      "test": "persona 小林",
+      "passed": true
+    },
+    {
+      "test": "persona 李叔",
+      "passed": true
+    },
+    {
+      "test": "Escape clears all persona effects",
+      "passed": true
+    },
+    {
+      "test": "hospital before",
+      "passed": true,
+      "metrics": "任务耗时\n0.2s\n平均点击偏移\n0.0px\n×\n误触陷阱\n0次\n↗\n挫败指数\n0/ 100"
+    },
+    {
+      "test": "hospital after",
+      "passed": true,
+      "metrics": "任务耗时\n0.1s\n平均点击偏移\n0.0px\n×\n误触陷阱\n0次\n↗\n挫败指数\n0/ 100"
+    },
+    {
+      "test": "payment before",
+      "passed": true,
+      "metrics": "任务耗时\n0.1s\n平均点击偏移\n0.0px\n×\n误触陷阱\n1次\n↗\n挫败指数\n30/ 100"
+    },
+    {
+      "test": "payment after",
+      "passed": true,
+      "metrics": "任务耗时\n0.2s\n平均点击偏移\n0.0px\n×\n误触陷阱\n0次\n↗\n挫败指数\n0/ 100"
+    },
+    {
+      "test": "payment actual pointer slide confirmation",
+      "passed": true
+    },
+    {
+      "test": "escape before",
+      "passed": true
+    },
+    {
+      "test": "escape after",
+      "passed": true
+    },
+    {
+      "test": "keyboard Enter and Space complete task",
+      "passed": true
+    },
+    {
+      "test": "all five color modes and canvas field masks",
+      "passed": true
+    },
+    {
+      "test": "tremor applied to real pointer click",
+      "passed": true,
+      "average_offset": "27.1px"
+    },
+    {
+      "test": "same-origin normal/impaired audio playback and Escape stop",
+      "passed": true
+    },
+    {
+      "test": "small insurance popup can be dismissed",
+      "passed": true
+    },
+    {
+      "test": "15-second timeout stores actual failed trial",
+      "passed": true
+    },
+    {
+      "test": "comfort mode suppresses popups and removes deadline",
+      "passed": true
+    },
+    {
+      "test": "diagnostic color samples equal rendered CSS and after targets >=44x52",
+      "passed": true,
+      "samples": [
+        {
+          "scene": "hospital",
+          "mode": "before",
+          "color": "rgb(160, 168, 180)"
+        },
+        {
+          "scene": "hospital",
+          "mode": "after",
+          "color": "rgb(15, 23, 42)"
+        },
+        {
+          "scene": "payment",
+          "mode": "before",
+          "color": "rgb(180, 186, 196)"
+        },
+        {
+          "scene": "payment",
+          "mode": "after",
+          "color": "rgb(15, 23, 42)"
+        },
+        {
+          "scene": "escape",
+          "mode": "before",
+          "color": "rgb(140, 151, 167)"
+        },
+        {
+          "scene": "escape",
+          "mode": "after",
+          "color": "rgb(15, 23, 42)"
+        }
+      ]
+    },
+    {
+      "test": "native Web Audio 1500Hz lowpass suppresses 6000Hz",
+      "passed": true,
+      "frequency_response": [
+        1.062843918800354,
+        1.0848008394241333,
+        0.05721653252840042
+      ]
+    },
+    {
+      "test": "hearing instruction window selection",
+      "passed": true
+    },
+    {
+      "test": "native Canvas PNG download",
+      "passed": true,
+      "width": 1200,
+      "height": 1600,
+      "bytes": 275701
+    },
+    {
+      "test": "ethics dialog and Escape recovery",
+      "passed": true
+    },
+    {
+      "test": "390px mobile layout without horizontal overflow",
+      "passed": true
+    },
+    {
+      "test": "no external asset requests or browser errors",
+      "passed": true,
+      "requests": [],
+      "errors": []
+    }
+  ],
+  "errors": [],
+  "externalRequests": []
+}

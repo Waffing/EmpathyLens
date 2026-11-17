@@ -1,0 +1,13 @@
+node_modules/
+dist/
+*.local
+.env
+.env.*
+*.log
+*.tsbuildinfo
+.qoder/
+*.qoder.site
+artifacts/
+__pycache__/
+.DS_Store
+Thumbs.db
